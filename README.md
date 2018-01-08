@@ -1,6 +1,6 @@
 # d20roll
 
-A dice roller application written in Rust, supporting "d20 system" notation. Download it [here](https://github.com/leotindall/d20roll/releases/).
+A dice roller application written in Rust, supporting "d20 system" notation. Download it [here](https://github.com/leotindall/d20roll/releases/). ISC licensed.
 
 ![A screenshot of the d20roll application, showing some completed rolls in the history list view](d20roll.png)
 

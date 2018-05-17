@@ -5,7 +5,7 @@ authors = ["LeoTindall <lfstindall@gmail.com>"]
 
 [dependencies]
 gtk = "^0.3.0"
-relm = "^0.11.0"
+relm = "^0.14.4"
 relm-derive = "^0.11.0"
 
 futures = "^0.1.17"

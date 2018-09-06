@@ -8,5 +8,5 @@ gtk = "^0.3.0"
 relm = "^0.11.0"
 relm-derive = "^0.11.0"
 
-futures = "^0.1.22"
+futures = "^0.1.24"
 rfyl = {git = "https://github.com/leotindall/RFYL"}
